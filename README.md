@@ -30,6 +30,6 @@ Site Updates for client LOP
 	<h2>Media</h2>
 	<img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/><br><br>
     
-	
+
   </div>
 </body>
